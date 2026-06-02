@@ -12,15 +12,16 @@
 📚 Alway eager to learn new technologies and grow as a software developer and improve my technical skills.
 
 📩 how to reach me morev0176@gmail.com
-____________________________________________________________________________________________________
-💻 Skills & Technologies
+
+## 💻 Skills & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-_____________________________________________________________________________________________________
+
 ## 📈 Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vidyamore&show_icons=true&theme=radical)
-______________________________________________________________________________________________________
+![GitHub 
+Stats](https://github-readme-stats.vercel.app/api?username=Vidyamore&show_icons=true&theme=radical)
+
 
 ✨ Thanks for visiting my profile!
