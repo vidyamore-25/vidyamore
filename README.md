@@ -4,9 +4,13 @@
 
 ## 👩‍💻 About Me
 👋 Hi! I'm a Information Technology and Engineering Student and stong interest in python and Web Development.
+
 💻 Learning Python and Web Development.
+
 🚀 Buiding Projects and improving my Problem-solving skills.
+
 📚 Alway eager to learn new technologies and grow as a software developer and improve my technical skills.
+
 📩 how to reach me morev0176@gmail.com
 ____________________________________________________________________________________________________
 💻 Skills & Technologies
