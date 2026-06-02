@@ -16,8 +16,7 @@ ________________________________________________________________________________
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 _____________________________________________________________________________________________________
 ## 📈 Github Stats
-![GitHub Stats]
-(https://github-readme-stats.vercel.app/api?username=Vidyamore&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vidyamore&show_icons=true)
 ______________________________________________________________________________________________________
 
 ✨ Thanks for visiting my profile!
