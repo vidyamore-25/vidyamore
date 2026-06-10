@@ -1,4 +1,4 @@
-#👋 Hi, I'm Vidya More 
+## **👋 Hi, I'm Vidya More** 
 ## Python Developer | IT Engineering Student
 
 <p align="center">
