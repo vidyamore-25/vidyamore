@@ -1,15 +1,6 @@
 ## **👋 Hi, I'm Vidya More** 
 ## Python Developer | IT Engineering Student
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=FF4500&center=true&vCenter=true&width=600&height=70&lines=👋+Hi,+I'm+Vidya+More!;Python+Developer+%7C+IT+Student" alt="Typing Banner" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider Line" />
-</p>
 ---
-
 ## 👩‍💻 About Me
 
 * 👋 Hi! I'm a Information Technology and Engineering Student and stong interest in python and Web Development.
