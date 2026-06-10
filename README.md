@@ -9,22 +9,19 @@
 
 ## 👩‍💻 About Me
 
-* 🎓 **Education:** Information Technology & Engineering Student
-* 💡 **Interests:** Deeply passionate about **Python Development**, **Web Development**, and building clean, efficient applications.
-* 🚀 **Current Focus:** Building hands-on projects, sharpening my problem-solving skills, and mastering backend technologies.
-* 📚 **Philosophy:** Always eager to embrace new technologies, grow as a software developer, and continuously refine my technical toolkit.
+* 👋 Hi! I'm a Information Technology and Engineering Student and stong interest in python and Web Development.
+* 💻 Deeply passionate about **Python Development**, **Web Development**, and building clean, efficient applications.
+* 🚀 Building hands-on projects, sharpening my problem-solving skills, and mastering backend technologies.
+* 📚 Always eager to embrace new technologies, grow as a software developer, and continuously refine my technical toolkit.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 🐍 Backend & Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
-
-### 🌐 Frontend Web Development
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -46,11 +43,8 @@
 ---
 
 ## 📬 Let's Connect!
-
-If you want to collaborate on a project, talk about Python, or just say hi, feel free to reach out!
-
 * 📧 **Email:** [morev0176@gmail.com](mailto:morev0176@gmail.com)
-* 💼 **LinkedIn:** [Your-LinkedIn-Profile-Link-Here](https://linkedin.com) *(Update this link!)*
+* 💼 **LinkedIn:** (https://in.linkedin.com/in/vidya-more)
 
 ---
-<p align="center">⭐️ From templates to custom code, thanks for visiting my GitHub! ⭐️</p>
+<p align="center">⭐️ Thanks for visiting my GitHub! ⭐️</p>
