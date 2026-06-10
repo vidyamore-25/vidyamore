@@ -1,5 +1,6 @@
+<p align="center">
 # 👋 Hi, I'm Vidya More
-### Python Developer | IT Engineering Student
+### Python Developer | IT Engineering Student </p>
 
 <p align="center">
   <img src="https://vhs-minimal-readme-tg.vercel.app/api?title=Welcome%20To%20My%20Profile!&lines=Python%20Developer%20%7C%20Web%20Dev%20Enthusiast&theme=radical&width=600&height=150" alt="Animated Banner" />
@@ -33,18 +34,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vidyamore&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Vidya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidyamore&layout=compact&theme=radical&border_radius=10" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidyamore&theme=radical&border_radius=10" alt="GitHub Streak" width="97%" />
-</p>
-
 ---
 
 ## 📬 Let's Connect!
 * 📧 **Email:** [morev0176@gmail.com](mailto:morev0176@gmail.com)
-* 💼 **LinkedIn:** (https://in.linkedin.com/in/vidya-more)
+* 💼 **LinkedIn:** https://in.linkedin.com/in/vidya-more
 
 ---
 <p align="center">⭐️ Thanks for visiting my GitHub! ⭐️</p>
