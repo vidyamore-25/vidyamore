@@ -1,11 +1,9 @@
-<p align="center">
-##👋 Hi, I'm Vidya More  </p>
-### Python Developer | IT Engineering Student
+#👋 Hi, I'm Vidya More 
+## Python Developer | IT Engineering Student
 
 <p align="center">
   <img src="https://vhs-minimal-readme-tg.vercel.app/api?title=Welcome%20To%20My%20Profile!&lines=Python%20Developer%20%7C%20Web%20Dev%20Enthusiast&theme=radical&width=600&height=150" alt="Animated Banner" />
 </p>
-
 ---
 
 ## 👩‍💻 About Me
