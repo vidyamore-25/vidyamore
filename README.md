@@ -23,12 +23,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vidyamore&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Vidya's GitHub Stats" width="48%" />
----
-
 ## 📬 Let's Connect!
 * 📧 **Email:** [morev0176@gmail.com](mailto:morev0176@gmail.com)
 * 💼 **LinkedIn:** https://in.linkedin.com/in/vidya-more
