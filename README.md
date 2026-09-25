@@ -1,10 +1,10 @@
 ## **👋 Hi, I'm Vidya More** 
-## Python Developer | IT Engineering Student
+## Full Stack Python Developer | IT Engineering Student
 ---
 ## 👩‍💻 About Me
 
 * 👋 Hi! I'm a Information Technology and Engineering Student and stong interest in python and Web Development.
-* 💻 Deeply passionate about **Python Development**, **Web Development**, and building clean, efficient applications.
+* 💻 Deeply passionate about **Full Stack Python Development**, **Web Development**, and building clean, efficient applications.
 * 🚀 Building hands-on projects, sharpening my problem-solving skills, and mastering backend technologies.
 * 📚 Always eager to embrace new technologies, grow as a software developer, and continuously refine my technical toolkit.
 
